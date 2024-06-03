@@ -1,0 +1,222 @@
+#manchuriyan{
+    height: 430px;
+    background-image: url('https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png');
+    background-size: 100% 100%;
+}
+
+#top_bar{
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+#app{
+    float: left;
+    padding-left: 200px;
+}
+
+#login{
+    float: left;
+    padding-left: 800px;
+}
+
+#signup{
+    float: left;
+    padding-left: 20px;
+}
+
+#tomato{
+    text-align:center;
+    padding-top: 70px;
+    color: white;
+    font-size: 80px;
+    margin: 0px;
+}
+
+#discover{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    margin: 0px;
+}
+
+#search{
+    text-align: center;
+    padding: 20px;
+}
+
+#search_box{
+    height: 40px;
+    width: 800px;
+    font-size:20px;
+    border-radius: 10px;
+    font-family: "CourierNew";
+}
+
+.options1{
+    
+    background-image:url('https://b.zmtcdn.com/webFrontend/e5b8785c257af2a7f354f1addaf37e4e1647364814.jpeg?output-format=webp&fit=around|402:360&crop=402:360;*,*');
+    width: 353px;
+    height: 240px;
+    border-radius: 10px;
+	margin:20px;  
+}
+
+.options1:hover{
+    width: 373px;
+    height: 260px;   
+    margin:10px;
+}
+
+.options2{
+    
+    background-image:url('https://b.zmtcdn.com/webFrontend/d026b357feb0d63c997549f6398da8cc1647364915.jpeg?output-format=webp&fit=around|402:360&crop=402:360;*,*');
+    width: 353px;
+    height: 240px;
+    border-radius: 10px;
+	margin:20px;
+	
+}
+.options2:hover{
+    width: 373px;
+    height: 260px;   
+    margin:10px;
+}
+.options3{
+   
+    background-image:url('https://b.zmtcdn.com/webFrontend/d9d80ef91cb552e3fdfadb3d4f4379761647365057.jpeg?output-format=webp&fit=around|402:360&crop=402:360;*,*');
+    width: 353px;
+    height: 240px;
+    border-radius: 10px;
+	margin:20px;
+	
+}
+.options3:hover{
+    width: 373px;
+    height: 260px;   
+    margin:10px;
+}
+#things{
+    padding-top: 50px;
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align:center;
+	display:flex;
+}
+
+.p{
+    margin-top:200px;
+    padding-bottom: 50px;
+    background-color: white;
+}
+
+.h11{
+	padding-left:170px;
+	margin:0px;
+}
+
+.ppp{
+	font-size:20px;
+	margin:0px;
+	padding-left:170px;
+}
+
+#collection{
+    padding-top: 20px;
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align:center;
+	display:flex;
+}
+
+.op1{
+    
+    background-image:url('https://b.zmtcdn.com/data/collections/684397cd092de6a98862220e8cc40aca_1709810207.png?output-format=webp');
+    width: 267px;
+    height: 320px;
+    border-radius: 5px;
+	margin: 10px;
+    background-size: 100% 100%;
+}
+
+.op2{
+    
+    background-image:url('https://b.zmtcdn.com/data/collections/2b9361aa328a43b08986f77bbec280bd_1709810493.png?output-format=webp');
+    width: 267px;
+    height: 320px;
+    border-radius: 5px;
+	margin: 10px;  
+    background-size: 100% 100%;
+}
+
+.op3{
+    
+    background-image:url('https://b.zmtcdn.com/data/collections/908aad87392ba1f9526e7b483b94d124_1711107868.jpg?output-format=webp');
+    width: 267px;
+    height: 320px;
+    border-radius: 5px;
+	margin:10px;  
+    background-size: 100% 100%;
+}
+
+.op4{
+    
+    background-image:url('https://b.zmtcdn.com/data/collections/7771cf3a18e1da2916794d3998260c69_1709811176.png?output-format=webp');
+    width: 267px;
+    height: 320px;
+    border-radius: 5px;
+	margin:10px;
+    background-size: 100% 100%;  
+}
+
+.pp{
+    margin-top:300px;
+    font-size: 20px;
+    background-color: transparent;
+    color: white;
+}
+
+.norway{
+    font-size:25px;
+    padding-left: 160px;
+}
+
+#gamer{
+    padding-left: 150px;
+    padding-right: 150px;
+    display: grid;
+    grid-template-columns: 32% 32% 32%;
+
+}
+
+.chess{
+    border:1px groove gray;
+    border-radius: 10px;
+    height:40px;
+    padding:10px;
+    margin:10px;
+    width:250px;
+}
+
+.chess:hover{
+    border:1px solid black;
+}
+
+.anything{
+    padding-left: 10px;
+    margin-top: 0px;
+    width:330px;
+}
+
+.ok{
+    font-size:100px;
+}
+
+.app{
+    text-align: center;
+}
+
+#mobile_app{
+    background-color: rgb(255, 251, 247);
+    display:flex;
+}
